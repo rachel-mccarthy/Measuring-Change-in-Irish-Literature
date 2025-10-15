@@ -1,4 +1,4 @@
-"Author (l, f)",Book Title,DOB - DOD,Gender,Place of Birth,Publication Date,Publishers,Publication Location,Publication Century,Publication x25 Years,Publication Decade
+"Author (l, f)",Book Title,DOB - DOD,Gender,Place of Birth (county in Ireland),Publication Date,Publishers,Publisher's Location,Publication Century,Publication x25 Years,Publication Decade
 "Abraham, James Johnston",The Surgeon's Log,1876-1963,Male,Derry,1911,E. P. Dutton & Co.,England,1900,1900,1910
 "Ahern, Cecelia ",One Hundred Names,1981-,Female,Dublin,2012,HarperCollins Publishers,England,2000,2000,2010
 "Alcock, Deborah",The Spanish Brothers: A Tale of the Sixteenth Century,1835-1913,Female,Kilkenny,1871,T. Nelson and Sons,England,1800,1850,1870
@@ -6,12 +6,12 @@
 "Alcock, Deborah",By Far Euphrates: A Tale,1835-1913,Female,Kilkenny,1897,Hodder & Stoughton,England,1800,1875,1890
 "Alexander, Mrs",Kate Vernon,1825-1902,Female,Dublin,1854,Thomas Cautley Newby,England,1800,1850,1850
 "Alexander, Mrs",The Wooing O't,1825-1902,Female,Dublin,1873,Richard Bentley & Son,England,1800,1850,1870
-"Alexander, Mrs",Ralph Wilton's Weird ,1825-1902,Female,Dublin,1875,Henry Holt & Company,USA,1800,1875,1870
-"Alexander, Mrs",Her Dearest Foe ,1825-1902,Female,Dublin,1876,Richard Bentley & Son,England,1800,1875,1870
+"Alexander, Mrs",Ralph Wilton's WeirdÂ ,1825-1902,Female,Dublin,1875,Henry Holt & Company,USA,1800,1875,1870
+"Alexander, Mrs",Her Dearest FoeÂ ,1825-1902,Female,Dublin,1876,Richard Bentley & Son,England,1800,1875,1870
 "Alexander, Mrs",The Freres,1825-1902,Female,Dublin,1882,Richard Bentley & Son,USA,1800,1875,1880
 "Alexander, Mrs",The Executor ,1825-1902,Female,Dublin,1883,Richard Bentley & Son,England,1800,1875,1880
-"Alexander, Mrs",A Crooked Path ,1825-1902,Female,Dublin,1889,F. M. Lupton,USA,1800,1875,1880
-"Alexander, Mrs",The Snare of the Fowler ,1825-1902,Female,Dublin,1892,Cassell & Company,England,1800,1875,1890
+"Alexander, Mrs",A Crooked PathÂ ,1825-1902,Female,Dublin,1889,F. M. Lupton,USA,1800,1875,1880
+"Alexander, Mrs",The Snare of the FowlerÂ ,1825-1902,Female,Dublin,1892,Cassell & Company,England,1800,1875,1890
 "Alexander, Mrs",At Bay,1825-1902,Female,Dublin,1900,W. B. Conkey Company,USA,1900,1900,1900
 "Amory, Thomas","The Life of John Buncle, Esq",1691-1788,Male,Dublin,1756,"T. Becket, P. A. Dehondt, T. Cadell",England,1700,1750,1750
 "Archdeacon, Matthew",The Priest Hunter,1798-1853,Male,Mayo,1844,James Duffy & Co,Ireland,1800,1825,1840
@@ -76,7 +76,7 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Birmingham, George A.",The Island Mystery,1865-1950,Male,Antrim,1918,George H. Doran Company,USA,1900,1900,1910
 "Birmingham, George A.",Lady Bountiful,1865-1950,Male,Antrim,1922,George H. Doran Company,USA,1900,1900,1920
 "Birmingham, George A.", The Smugglers' Cave ,1865-1950,Male,Antrim,1926,Hodder & Stoughton,England,1900,1925,1920
-"Bolger, Dermot",The Woman’s Daughter,1959-,Male,Dublin,1987,Raven Arts Press,Ireland,1900,1975,1980
+"Bolger, Dermot",The Womanâ€™s Daughter,1959-,Male,Dublin,1987,Raven Arts Press,Ireland,1900,1975,1980
 "Bolger, Dermot",Secrets Never Told,1959-,Male,Dublin,2020,New Island,Ireland,2000,2000,2020
 "Bolger, Dermot",Hide Away,1959-,Male,Dublin,2024,New Island,Ireland,2000,2000,2020
 "Boylan, Clare",Black Baby,1948-2006,Female,Dublin,1988,"Little, Brown, & Co",Ireland,1900,1975,1980
@@ -125,7 +125,7 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Carleton, William",The Evil Eye,1794-1869,Male,Tyrone,1896,P. F. Collier,USA,1800,1875,1890
 "Chetwood, Anna Maria",Blue-stocking Hall,1774-1870,Female,Cork,1827,Henry Colburn,England,1800,1825,1820
 "Chetwood, Anna Maria",Tales of my time ,1774-1870,Female,Cork,1879,Henry Colburn,England,1800,1875,1870
-"Chonchúir, Nuala Ní",The Closet of Savage Mementos,1970-,Female,Dublin,2014,New Island,Ireland,2000,2000,2010
+"ChonchÃºir, Nuala NÃ­",The Closet of Savage Mementos,1970-,Female,Dublin,2014,New Island,Ireland,2000,2000,2010
 "Colfer, Eoin",Artemis Fowl,1965-,Male,Wexford,2001,Viking Press,Ireland,2000,2000,2000
 "Colfer, Eoin",Artemis Fowl and the Arctic Incident,1965-,Male,Wexford,2002,Viking Press,Ireland,2000,2000,2000
 "Colfer, Eoin",Artemis Fowl and the Eternity Code,1965-,Male,Wexford,2003,Viking Press,Ireland,2000,2000,2000
@@ -150,7 +150,7 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Crofts, Freeman Wills",The Starvel Hollow Tragedy,1879-1957,Male,Dublin,1927,HarperCollins Publishers,England,1900,1925,1920
 "Crofts, Freeman Wills",The Sea Mystery,1879-1957,Male,Dublin,1928,HarperCollins Publishers,England,1900,1925,1920
 "Crofts, Freeman Wills",Mystery in the Channell,1879-1957,Male,Dublin,1931,HarperCollins Publishers,England,1900,1925,1930
-"Crofts, Freeman Wills",The Cheyne Mystery ,1879-1957,Male,Dublin,1936,HarperCollins Publishers,England,1900,1925,1930
+"Crofts, Freeman Wills",The Cheyne MysteryÂ ,1879-1957,Male,Dublin,1936,HarperCollins Publishers,England,1900,1925,1930
 "Croker, Thomas",Barney Mahoney,1798-1854,Male,Cork,1832,"Fisher, sons, and Jackson",Ireland,1800,1825,1830
 "Croker, Thomas",My Village versus our Village,1798-1854,Male,Cork,1833,"Fisher, sons, and Jackson",Ireland,1800,1825,1830
 "Croly, George",Salathiel,1780-1860,Male,Dublin,1829,Henry Colburn,England,1800,1825,1820
@@ -162,10 +162,10 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Crumpe, Mary","Geraldine of Desmond; or, Ireland in the reign of Elizabeth: An historical romance",179?-1861,Female,Limerick,1929,Henry Colburn,England,1900,1925,1920
 "Denton, Danny",All Along the Echo,19??-,Male,Cork,2018,Granta Books,England,2000,2000,2010
 "Denton, Danny",The Earlie King and the Kid in Yellow,19??-,Male,Cork,2022,Atlantic Books,Ireland,2000,2000,2020
-"Dhuibhne, Eílís Ní",The Dancers Dancing,1954-,Female,Dublin,1999,Blackstaff Press,Ireland,1900,1975,1990
-"Dillon, Eilís",The Bitter Glass,1920-1994,Female,Galway,1958,Lume Books,Ireland,1900,1950,1950
-"Dillon, Eilís",Across the Bitter Sea,1920-1994,Female,Galway,1973,Lume Books,Ireland,1900,1950,1970
-"Dillon, Eilís",Sent to His Account,1920-1994,Female,Galway,1986,Lume Books,Ireland,1900,1975,1980
+"Dhuibhne, EÃ­lÃ­s NÃ­",The Dancers Dancing,1954-,Female,Dublin,1999,Blackstaff Press,Ireland,1900,1975,1990
+"Dillon, EilÃ­s",The Bitter Glass,1920-1994,Female,Galway,1958,Lume Books,Ireland,1900,1950,1950
+"Dillon, EilÃ­s",Across the Bitter Sea,1920-1994,Female,Galway,1973,Lume Books,Ireland,1900,1950,1970
+"Dillon, EilÃ­s",Sent to His Account,1920-1994,Female,Galway,1986,Lume Books,Ireland,1900,1975,1980
 "Donn-Byrne, Brian Oswald",Messer Marco,1889-1928,Male,Armagh,1922,T. Nelson and Sons,England,1900,1900,1920
 "Donn-Byrne, Brian Oswald",The Wind Bloweth,1889-1928,Male,Armagh,1922,The Century Co,USA,1900,1900,1920
 "Donn-Byrne, Brian Oswald","Changeling, and Other Stories",1889-1928,Male,Armagh,1923,The Century Co,USA,1900,1900,1920
@@ -362,7 +362,7 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Macken, Walter",The Scorching Wind,1915-1967,Male,Galway,1964,Pan Macmillan,England,1900,1950,1960
 "Macken, Walter",Brown Lord of the Mountain ,1915-1967,Male,Galway,1967,Pan Macmillan,England,1900,1950,1960
 "MacNamara, Brinsley",The Valley of the Squinting Windows,1890-1963,Male,Westmeath,1918,Brentano's,USA,1900,1900,1910
-"Madden, Samuel",The reign of George VI. 1900–1925,1686-1765,Male,Dublin,1763,W. Niccoll,Ireland,1700,1750,1760
+"Madden, Samuel",The reign of George VI. 1900â€“1925,1686-1765,Male,Dublin,1763,W. Niccoll,Ireland,1700,1750,1760
 "Mason, Mrs Margaret",The Sisters of Nansfield,1772-1835,Female,Dublin,1825,Longmans & Co,England,1800,1825,1820
 "Maturin, Charles","Fatal revenge; or, The family of Montorio",1780-1824,Male,Dublin,1807,Longmans & Co,England,1800,1800,1800
 "Maturin, Charles",The Milesian Chief,1780-1824,Male,Dublin,1812,Henry Colburn,England,1800,1800,1810
@@ -392,7 +392,7 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Mclynn, Pauline",Bright Lights and Promises,1962-,Female,Sligo,2007,Headline,Ireland,2000,2000,2000
 "Mclynn, Pauline",The Time is Now,1962-,Female,Sligo,2010,Headline,Ireland,2000,2000,2010
 "Mclynn, Pauline","Jenny Q, Unravelled!",1962-,Female,Sligo,2013,Penguin Books,England,2000,2000,2010
-"McTiernan, Dervla",The Rúin,1977-,Female,Cork,2018,HarperCollins Publishers,Australia,2000,2000,2010
+"McTiernan, Dervla",The RÃºin,1977-,Female,Cork,2018,HarperCollins Publishers,Australia,2000,2000,2010
 "McTiernan, Dervla",The Scholar,1977-,Female,Cork,2019,HarperCollins Publishers,Australia,2000,2000,2010
 "McTiernan, Dervla",The Good Turn,1977-,Female,Cork,2020,HarperCollins Publishers,Australia,2000,2000,2020
 "McTiernan, Dervla",The Unquiet Grave,1977-,Female,Cork,2025,HarperCollins Publishers,Australia,2000,2025,2020
@@ -401,13 +401,13 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Meade, L.T.",Polly: A New-Fashioned Girl,1844-1916,Female,Cork,1889,The New York Book Company,USA,1800,1875,1880
 "Meade, L.T.",Dickory Dock,1844-1916,Female,Cork,1890,W. & R. Chambers,England,1800,1875,1890
 "Meade, L.T.",Bashful Fifteen,1844-1916,Female,Cork,1892,Cassell & Company,USA,1800,1875,1890
-"Meade, L.T.",A Little Mother to the Others ,1844-1916,Female,Cork,1896,Grosset & Dunlap Publishers,USA,1800,1875,1890
-"Meade, L.T.",The Girls of St. Wode's ,1844-1916,Female,Cork,1898,Grosset & Dunlap Publishers,USA,1800,1875,1890
+"Meade, L.T.",A Little Mother to the OthersÂ ,1844-1916,Female,Cork,1896,Grosset & Dunlap Publishers,USA,1800,1875,1890
+"Meade, L.T.",The Girls of St. Wode'sÂ ,1844-1916,Female,Cork,1898,Grosset & Dunlap Publishers,USA,1800,1875,1890
 "Meade, L.T.",On the Brink of a Chasm,1844-1916,Female,Cork,1898,F. M. Buckles & Company,England,1800,1875,1890
 "Meade, L.T.",Daddy's Girl,1844-1916,Female,Cork,1900,A. L. Burt Company,England,1900,1900,1900
-"Meade, L.T.",A Very Naughty Girl ,1844-1916,Female,Cork,1901,A. L. Burt Company,England,1900,1900,1900
+"Meade, L.T.",A Very Naughty GirlÂ ,1844-1916,Female,Cork,1901,A. L. Burt Company,England,1900,1900,1900
 "Meade, L.T.",The Rebel of the School,1844-1916,Female,Cork,1902,MacLellan N. Y. Company,England,1900,1900,1900
-"Meade, L.T.",A Bevy of Girls ,1844-1916,Female,Cork,1905,A. L. Burt Company,England,1900,1900,1900
+"Meade, L.T.",A Bevy of GirlsÂ ,1844-1916,Female,Cork,1905,A. L. Burt Company,England,1900,1900,1900
 "Meade, L.T.","Sue, A Little Heroine",1844-1916,Female,Cork,1906,The New York Book Company,USA,1900,1900,1900
 "Meade, L.T.",The Little School-Mothers,1844-1916,Female,Cork,1907,The New York Book Company,USA,1900,1900,1900
 "Meade, L.T.",The School Queens,1844-1916,Female,Cork,1909,The New York Book Company,USA,1900,1900,1900
@@ -437,9 +437,9 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Morgan, Lady Sydney",The Wild Irish Girl,1780-1859,Female,Dublin,1806,Hartford: Silus Andrus & Son,USA,1800,1800,1800
 "Morgan, Lady Sydney","Woman; or, Ida of Athens",1780-1859,Female,Dublin,1809,Henry Colburn,Ireland,1800,1800,1800
 "Morgan, Lady Sydney",The Missionary: An Indian Tale,1780-1859,Female,Dublin,1811,Franklin Company,USA,1800,1800,1810
-"Morgan, Lady Sydney",O’Donnel: a National Tale,1780-1859,Female,Dublin,1814,Henry Colburn,England,1800,1800,1810
+"Morgan, Lady Sydney",Oâ€™Donnel: a National Tale,1780-1859,Female,Dublin,1814,Henry Colburn,England,1800,1800,1810
 "Morgan, Lady Sydney",Florence Macarthy: An Irish Tale,1780-1859,Female,Dublin,1818,Henry Colburn,England,1800,1800,1810
-"Morgan, Lady Sydney",The O’Briens and the O’Flahertys: A National Tale,1780-1859,Female,Dublin,1827,Henry Colburn,England,1800,1825,1820
+"Morgan, Lady Sydney",The Oâ€™Briens and the Oâ€™Flahertys: A National Tale,1780-1859,Female,Dublin,1827,Henry Colburn,England,1800,1825,1820
 "Morgan, Lady Sydney","The Princess; or, The Beguine",1780-1859,Female,Dublin,1835,Richard Bentley & Son,England,1800,1825,1830
 "Mosse, Henrietta Rouviere",The Heirs of Villeroy,1774-1834,Female,Dublin,1806,"Lane, Newman, & Co",England,1800,1800,1800
 "Mosse, Henrietta Rouviere","The Old Irish Baronet, or, The Manners of my Country ",1774-1834,Female,Dublin,1808,"Lane, Newman, & Co",England,1800,1800,1800
@@ -510,7 +510,7 @@ Banim Brothers,"The Peep o' Day; or, John Doe, the Last of the Guerillas",17??-1
 "Purcell, Deirdre",Children of Eve,1945-2023,Female,Dublin,2005,Hachette Books Ireland,Ireland,2000,2000,2000
 "Purcell, Deirdre",Pearl,1945-2023,Female,Dublin,2011,Hachette Books Ireland,Ireland,2000,2000,2010
 "Purcell, Deirdre",The Christmas Voyage,1945-2023,Female,Dublin,2017,Hachette Books Ireland,Ireland,2000,2000,2010
-"Purdon, Katherine",Candle and Crib ,1852-1920,Female,Meath,1914,Maunsel & Co,Ireland,1900,1900,1910
+"Purdon, Katherine",Candle and CribÂ ,1852-1920,Female,Meath,1914,Maunsel & Co,Ireland,1900,1900,1910
 "Purdon, Katherine",The Folk of Furry Farm,1852-1920,Female,Meath,1914,Nisbet,Ireland,1900,1900,1910
 "Purdon, Katherine",Dinny of the Doorstep,1852-1920,Female,Meath,1918,Talbot Press,Ireland,1900,1900,1910
 "Reid, Forrest",The Garden God: A Tale of Two Boys,1875-1947,Male,Antrim,1905,David Nutt,Ireland,1900,1900,1900
@@ -573,7 +573,7 @@ Somerville and Ross,Further Experiences of an Irish R.M.,"1858-1949, 1862-1915",
 Somerville and Ross,In Mr Knox's Country,"1858-1949, 1862-1915",Female,Cork,1915,Longmans & Co,England,1900,1900,1910
 "Stacpoole, Henry de Vere",Fanny Lambert,1863-1951,Male,Dublin,1905,T. Fisher Unwin,USA,1900,1900,1900
 "Stacpoole, Henry de Vere",The Crimson Azaleas,1863-1951,Male,Dublin,1907,James Duffy & Co,USA,1900,1900,1900
-"Stacpoole, Henry de Vere",The Cottage on the Fells ,1863-1951,Male,Dublin,1908,T. Fisher Unwin,USA,1900,1900,1900
+"Stacpoole, Henry de Vere",The Cottage on the FellsÂ ,1863-1951,Male,Dublin,1908,T. Fisher Unwin,USA,1900,1900,1900
 "Stacpoole, Henry de Vere",The Blue Lagoon,1863-1951,Male,Dublin,1908,T. Fisher Unwin,USA,1900,1900,1900
 "Stacpoole, Henry de Vere",The Drums of War,1863-1951,Male,Dublin,1910,John Murray,Ireland,1900,1900,1910
 "Stacpoole, Henry de Vere",The Ship of Coral,1863-1951,Male,Dublin,1911,James Duffy & Co,USA,1900,1900,1910
@@ -616,8 +616,8 @@ Somerville and Ross,In Mr Knox's Country,"1858-1949, 1862-1915",Female,Cork,1915
 "Tickell, Jerrard",At Dusk All Cats Are Grey,1905-1970,Male,Dublin,1940,Hodder & Stoughton,England,1900,1925,1940
 "Tickell, Jerrard",Appointment with Venus,1905-1970,Male,Dublin,1951,Hodder & Stoughton,England,1900,1950,1950
 "Tickell, Jerrard",The Hand and Flower,1905-1970,Male,Dublin,1952,Hodder & Stoughton,England,1900,1950,1950
-"Tóibín, Colm",Mothers and Sons,1955-,Male,Wexford,2006,Picador,Ireland,2000,2000,2000
-"Tóibín, Colm",The Testament of Mary,1955-,Male,Wexford,2012,Scribner's,Ireland,2000,2000,2010
+"TÃ³ibÃ­n, Colm",Mothers and Sons,1955-,Male,Wexford,2006,Picador,Ireland,2000,2000,2000
+"TÃ³ibÃ­n, Colm",The Testament of Mary,1955-,Male,Wexford,2012,Scribner's,Ireland,2000,2000,2010
 "Trevor, William",The Old Boys,1928-2016,Male,Cork,1964,Penguin Books,England,1900,1950,1960
 "Trevor, William",The Boarding House,1928-2016,Male,Cork,1965,Penguin Books,England,1900,1950,1960
 "Trevor, William",Fools of Fortune,1928-2016,Male,Cork,1983,Penguin Books,England,1900,1975,1980
@@ -654,3 +654,4 @@ Somerville and Ross,In Mr Knox's Country,"1858-1949, 1862-1915",Female,Cork,1915
 "Wibberley, Leonard",The Mouse That Saved the West,1915-1983,Male,Dublin,1981,William Morrow,USA,1900,1975,1980
 "Wilde, Oscar",The Picture of Dorian Gray,1854-1900,Male,Dublin,1891,"Ward, Lock & Co.",England,1800,1875,1890
 "Wilson, Charles Henry","The Irish valet; or, whimsical adventures of Paddy O'Haloran",175?-1808,Male,Cavan,1811,M. Allen,England,1800,1800,1810
+
